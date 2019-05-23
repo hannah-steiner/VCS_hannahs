@@ -1,0 +1,16 @@
+body{
+    font-family: 'Indie Flower', cursive;
+    background-image: linear-gradient(to right, #8de4dc, #d0a7ec);
+}
+
+h1{
+    text-align: center;
+    text-shadow: 4px 4px 3px #ffffff;
+}
+
+hr{
+    border: 2px dashed #ffffff;
+}
+#smaller{
+    font-size: 12px;
+}
